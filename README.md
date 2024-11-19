@@ -36,8 +36,8 @@ Revenez plus tard !
 
 ## 📈 Statistiques GitHub
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=github-readme-stats&theme=gruvbox&show_icons=true)
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=tonUsername&layout=compact&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICHAM-DJILALI-MERZOUG&theme=dark&show_icons=true)
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ICHAM-DJILALI-MERZOUG&layout=compact&theme=radical)  
 
 ---
 
