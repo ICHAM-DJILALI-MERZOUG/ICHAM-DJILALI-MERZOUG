@@ -1,4 +1,4 @@
-## Hi there 👋
+![Bannière](./images/bannière.webp)
 
 <!--
 **ICHAM-DJILALI-MERZOUG/ICHAM-DJILALI-MERZOUG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
