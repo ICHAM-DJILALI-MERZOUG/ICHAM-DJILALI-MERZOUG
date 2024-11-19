@@ -1,18 +1,16 @@
 ![Bannière GitHub](https://github.com/ICHAM-DJILALI-MERZOUG/ICHAM-DJILALI-MERZOUG/blob/main/images/banni%C3%A8re%20.webp)
 
-# 👋 Bonjour, je suis [Ton Prénom] !  
+# 👋 Bonjour, je suis Icham !  
 
 🎯 **À propos de moi**  
-Développeur(se) passionné(e) spécialisé(e) en **[compétence principale]**, avec une forte expérience en **[secteurs/technos]**. J'adore créer des applications robustes et intuitives qui répondent aux besoins des utilisateurs.
+Apprentit développeur passionné, je souhaiterias être spécialisé(e) en **RUST, C++**, avec une forte apétence pour **[la création de programmes embarqués/logiciels et jeux vidéos]**. J'adorerai créer des programmes robustes et efficaces qui répondent aux besoins des utilisateurs.
 
 💡 **Ce que je fais** :
-- 🚀 Développement d'applications full-stack avec React, Node.js, et MongoDB.
-- 📊 Analyse de données et développement d'algorithmes en Python.
-- 🌱 Actuellement, je me forme à **[nouvelle technologie ou domaine]**.
+- 🌱 Actuellement, je me forme au **[développement d'applications, programmes, logiciels embarqués, jeux vidéos en langage Rust, C++. Mais aussi au developpement web HTML/CSS ainsi que qu'au langage Python]**.
 
 📫 **Contactez-moi** :  
-- [LinkedIn](https://www.linkedin.com/in/monLien)
-- [Portfolio](https://www.monportfolio.com)  
+- [LinkedIn](A venir)
+- [Portfolio](A venir)  
 ---
 
 ## 🌟 Projets en vedette
@@ -21,19 +19,19 @@ Développeur(se) passionné(e) spécialisé(e) en **[compétence principale]**, 
 
 | 📂 Projet                  | 🌟 Description                                            | 🚀 Technologies             |
 |----------------------------|----------------------------------------------------------|-----------------------------|
-| [Projet 1](https://github.com/tonDepot/projet1) | Une application web qui...                          | React, Node.js, MongoDB     |
-| [Projet 2](https://github.com/tonDepot/projet2) | Un outil d'analyse de données pour...               | Python, Pandas, Matplotlib  |
-| [Projet 3](https://github.com/tonDepot/projet3) | Un chatbot basé sur l'IA...                         | TensorFlow, Flask           |
-| [Projet 4](https://github.com/tonDepot/projet4) | Une application mobile pour...                      | Flutter, Firebase           |
+| [Projet 1](A venir)        | Une application web qui...                               |     |
+| [Projet 1](A venir)        | Une application web qui...                               |     |
+| [Projet 1](A venir)        | Une application web qui...                               |     |
+| [Projet 1](A venir)        | Une application web qui...                               |     |
 
 ---
 
 ## 🏆 Réalisations et badges
 
-![Badge Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
-![Badge React](https://img.shields.io/badge/React-Avancé-61DAFB?style=flat&logo=react&logoColor=black)
-![Contributions Open Source](https://img.shields.io/badge/Open--Source-Contributions-brightgreen?style=flat)
-
+🚧🏗️ 
+Chantier, travaux en cours. 
+Revenez plus tard !
+🚧🏗️
 ---
 
 ## 📈 Statistiques GitHub
