@@ -8,6 +8,8 @@ Apprentit développeur passionné, je souhaiterias être spécialisé(e) en **RU
 💡 **Ce que je fais** :
 - 🌱 Actuellement, je me forme au **développement d'applications, programmes, logiciels embarqués, jeux vidéos en langage Rust, C++. Mais aussi au developpement web HTML/CSS ainsi que qu'au langage Python**.
 
+💼  **CV** A venir
+
 📫 **Contactez-moi** :  
 - [LinkedIn](A venir)
 - [Portfolio](A venir)  
@@ -37,8 +39,15 @@ Revenez plus tard !
 ## 📈 Statistiques GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICHAM-DJILALI-MERZOUG&theme=dark&show_icons=true)
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ICHAM-DJILALI-MERZOUG&layout=compact&theme=gruvbox)  
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ICHAM-DJILALI-MERZOUG&layout=compact&theme=gruvbox)
 
+## Pratiques sportives 
+
+🥋  Je pratique plusieurs sports de combat, cela me permet de me dépasser et d'en apprendre plus sur moi même --> 
+🥊  Boxe anglaise/BoxeThaï
+🥋  Karaté
+🏃  Running
+🏋️  Muscu
 ---
 
 ## 🔗 Me suivre :  
