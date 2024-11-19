@@ -36,7 +36,7 @@ Revenez plus tard !
 
 ## 📈 Statistiques GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=great-gatsby&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=monokai&show_icons=true)
 ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=tonUsername&layout=compact&theme=radical)  
 
 ---
