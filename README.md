@@ -6,7 +6,7 @@
 Apprentit développeur passionné, je souhaiterias être spécialisé(e) en **RUST, C++**, avec une forte apétence pour **la création de programmes embarqués/logiciels et jeux vidéos**. J'adorerai créer des programmes robustes et efficaces qui répondent aux besoins des utilisateurs.
 
 💡 **Ce que je fais** :
-- 🌱 Actuellement, je me forme au **développement d'applications, programmes, logiciels embarqués, jeux vidéos en langage Rust, C++. Mais aussi au developpement web HTML/CSS ainsi que qu'au langage Python**.
+- 🌱 Actuellement, je me forme au **développement d'applications, programmes, logiciels embarqués, jeux vidéos en langage Rust, C++. Mais aussi au developpement web HTML/CSS ainsi qu'au langage Python**.
 
 💼  **CV** A venir
 
