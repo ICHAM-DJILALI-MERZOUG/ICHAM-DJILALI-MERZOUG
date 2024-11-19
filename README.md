@@ -13,7 +13,7 @@ Apprentit développeur passionné, je souhaiterias être spécialisé(e) en **RU
 📫 **Contactez-moi** :  
 - [LinkedIn](A venir)
 - [Portfolio](A venir)
-- [Mail](icham.djilali-merzoug@laplateforme.io)
+- [![E-mail](https://img.shields.io/badge/Email-icham.djilali-merzoug@laplateforme.io-D14836?style=flat&logo=gmail&logoColor=white)](mailto:icham.djilali-merzoug@laplateforme.io)
 ---
 
 ## 🌟 Projets en vedette
