@@ -1,6 +1,6 @@
 ![Bannière GitHub](https://github.com/ICHAM-DJILALI-MERZOUG/ICHAM-DJILALI-MERZOUG/blob/main/images/banni%C3%A8re%20.webp)
 
-# 👋 Bonjour, je suis Icham !  
+# 👋 Hello veryone, I'm Icham!  
 
 🎯 **À propos de moi**  
 Apprentit développeur passionné, je souhaiterias être spécialisé(e) en **RUST, C++**, avec une forte apétence pour **la création de programmes embarqués/logiciels et jeux vidéos**. J'adorerai créer des programmes robustes et efficaces qui répondent aux besoins des utilisateurs.
@@ -42,6 +42,6 @@ Revenez plus tard !
 ---
 
 ## 🔗 Me suivre :  
-- 🐦 [X (Twitter)](https://twitter.com/tonLien)
-- 💼 [LinkedIn](https://linkedin.com/in/tonLien)
-- 🌐 [Portfolio](https://tonPortfolio.com)
+- 🐦 [X (Twitter)](A venir)
+- 💼 [LinkedIn](A venir)
+- 🌐 [Portfolio](A venir)
