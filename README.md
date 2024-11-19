@@ -37,7 +37,7 @@ Revenez plus tard !
 ## 📈 Statistiques GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICHAM-DJILALI-MERZOUG&theme=dark&show_icons=true)
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ICHAM-DJILALI-MERZOUG&layout=compact&theme=radical)  
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ICHAM-DJILALI-MERZOUG&layout=compact&theme=gruvbox)  
 
 ---
 
