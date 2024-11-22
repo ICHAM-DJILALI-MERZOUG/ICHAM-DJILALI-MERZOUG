@@ -1,4 +1,4 @@
-![Bannière GitHub](https://github.com/ICHAM-DJILALI-MERZOUG/ICHAM-DJILALI-MERZOUG/blob/main/images/banni%C3%A8re%20.webp)
+![Bannière GitHub](https://github.com/ICHAM-DJILALI-MERZOUG/ICHAM-DJILALI-MERZOUG/blob/main/banni%C3%A8re.jpg)
 
 # 👋 Hello everyone, I'm Icham!  
 
