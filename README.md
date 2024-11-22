@@ -6,13 +6,11 @@
 Apprentit développeur passionné, je souhaiterias être spécialisé(e) en **RUST, C++**, avec une forte apétence pour **la création de programmes embarqués/logiciels et jeux vidéos**. J'adorerai créer des programmes robustes et efficaces qui répondent aux besoins des utilisateurs.
 
 💡 **Ce que je fais** :
-- 🌱 Actuellement, je me forme au **développement d'applications, programmes, logiciels embarqués, jeux vidéos en langage Rust, C++. Mais aussi au developpement web HTML/CSS ainsi qu'au langage Python**.
+- 🌱 Actuellement en reprise d'études au sein de l'école La Plateforme à Marseille, je me forme au **développement d'applications, programmes, logiciels embarqués, jeux vidéos en langage Rust, C++. Mais aussi au developpement web HTML/CSS ainsi qu'au langage Python**.
 
 💼  **CV** A venir
 
-📫 **Contactez-moi** :  
-- [LinkedIn](A venir)
-- [Portfolio](A venir)
+📫 **Contactez-moi** : 
 - [![E-mail](https://img.shields.io/badge/Email-icham.djilali-merzoug@laplateforme.io-D14836?style=flat&logo=gmail&logoColor=white)](mailto:icham.djilali-merzoug@laplateforme.io)
 ---
 
@@ -53,5 +51,5 @@ Revenez plus tard !
 
 ## 🔗 Me suivre :  
 - 🐦 [X (Twitter)](A venir)
-- 💼 [LinkedIn](A venir)
+- 💼 [LinkedIn](https://www.linkedin.com/in/icham-djilali-merzoug-8b531233a/)
 - 🌐 [Portfolio](A venir)
